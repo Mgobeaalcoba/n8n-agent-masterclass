@@ -1,0 +1,16 @@
+[project]
+name = "n8n-agent-masterclass"
+version = "0.1.0"
+description = "A masterclass for Henry about Agent Creation with n8n"
+authors = [
+    {name = "Mariano Gobea Alcoba",email = "mariano.gobea@mercadolibre.com"}
+]
+license = {text = "MIT"}
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
